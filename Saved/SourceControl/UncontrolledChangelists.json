@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/Main.umap",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_MovingPlatform.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_MovingPlatformBPOnly.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_PushingCube.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_Pushing_Platform.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_RotatingPlatformBPOnly1.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_S.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/ObstacleAttack/Content/BP_Sweepers.uasset"
+			]
+		}
+	]
+}
